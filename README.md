@@ -6,5 +6,6 @@ Prerequisites, install **ntplib**
 
 ```
 git clone https://github.com/cf-natali/ntplib.git
+cd ntplib
 python setup.py install
 ```
