@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+print("Hello, World!")
+
 '''
 Multicast Server by: JOR
 Reads multicast packets from a particular address and port.

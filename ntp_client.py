@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+print("Hello, World!")
+
 '''
 NTPClient by: JOR
 Simple test of NTP server

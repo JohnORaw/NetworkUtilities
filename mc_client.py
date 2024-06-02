@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+
+print("Hello, World!")
+
 '''
 Multicast client by: JOR
 Sends multicast packets to a particular address and port.
