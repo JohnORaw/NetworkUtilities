@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-print("Hello, World!")
+print("NTP tester for Linux/RPi")
 
 '''
 NTPClient by: JOR
